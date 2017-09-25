@@ -1,0 +1,21 @@
+ [{
+  "type": 0,
+  "name": "Music",
+  "icon": "music.jpg",
+  "bundleID": "com.apple.Music"
+  }, {
+  "type": 0,
+  "name": "Spark",
+  "icon": "spark.jpg",
+  "bundleID": "com.readdle.smartemail"
+  }, {
+  "type": 0,
+  "name": "Safari",
+  "icon": "safari.png",
+  "bundleID": "com.apple.mobilesafari"
+  }, {
+  "type": 0,
+  "name": "Tweetbot",
+  "icon": "tweetbot.jpg",
+  "bundleID": "com.tapbots.Tweetbot4"
+  }]

@@ -1,0 +1,410 @@
+[{
+  "type": 0,
+  "name": "Messages",
+  "icon": "messages.png",
+ "bundleID": "com.apple.MobileSMS",
+ "badge": 3
+  },
+  {
+  "type": 0,
+  "name": "Calendar",
+ "bundleID": "com.apple.mobilecal"
+  },
+ {
+  "type": 0,
+  "name": "Photos",
+  "icon": "photos.png",
+ "bundleID": "com.apple.mobileslideshow",
+  "shareable": false
+  }, {
+  "type": 0,
+  "name": "Camera",
+  "icon": "camera.png",
+ "bundleID": "com.apple.camera"
+  }, {
+  "type": 0,
+  "name": "Clock",
+ "icon": "clock.png",
+ "bundleID": "com.apple.mobiletimer"
+  }, {
+  "type": 0,
+  "name": "Calculator",
+  "icon": "calculator.jpg",
+ "bundleID": "com.apple.calculator"
+  }, {
+  "type": 0,
+  "name": "Notes",
+  "icon": "notes.jpg",
+ "bundleID": "com.apple.mobilenotes"
+  }, {
+  "type": 0,
+  "name": "Reminders",
+  "icon": "reminder.png",
+ "bundleID": "com.apple.reminders",
+  "badge": 1
+  }, {
+  "type": 0,
+  "name": "Google Maps",
+  "icon": "googlemaps.jpg",
+ "bundleID": "com.google.Maps"
+  }, {
+  "type": 0,
+  "name": "iTunes Store",
+  "icon": "itunes.jpg",
+ "bundleID": "com.apple.MobileStore"
+  }, {
+  "type": 0,
+  "badge": 5,
+  "name": "App Store",
+  "icon": "appstore.png",
+ "bundleID": "com.apple.AppStore"
+  }, {
+  "type": 0,
+  "name": "Settings",
+  "icon": "settings.png",
+ "bundleID": "com.apple.Preferences"
+  }, {
+  "type": 0,
+ "badge": 12,
+  "name": "Telegram",
+  "icon": "telegram.jpg",
+ "bundleID": "ph.telegra.Telegraph"
+  }, {
+  "type": 0,
+  "name": "WhatsApp",
+  "icon": "whatsapp.jpg",
+ "bundleID": "net.whatsapp.WhatsApp"
+  }, {
+  "type": 0,
+  "name": "Swarm",
+  "icon": "swarm.jpg",
+ "bundleID": "com.foursquare.robin"
+  }, {
+  "type": 0,
+  "name": "Wallet",
+  "icon": "wallet.png",
+ "bundleID": "com.apple.Passbook"
+  }, {
+  "type": 0,
+  "name": "Instagram",
+  "icon": "instagram.jpg",
+ "bundleID": "com.burbn.instagram"
+  }, {
+  "type": 0,
+  "name": "jMusic",
+  "icon": "jmusic.jpg",
+ "bundleID": "com.jota.jMusic"
+  },
+ {"type": 0,
+ "name": "Compass",
+ "bundleID": "com.apple.compass"
+ },
+  {
+  "type": 0,
+  "name": "Facebook",
+  "icon": "facebook.jpg",
+ "bundleID": "com.facebook.Facebook"
+  }, {
+  "type": 0,
+  "name": "Weather",
+  "icon": "weather.jpg",
+ "bundleID": "com.apple.weather"
+  }, {
+  "type": 0,
+  "name": "Find Friends",
+  "icon": "findfriends.jpg",
+ "bundleID": "com.apple.mobileme.fmf1"
+  }, {
+  "type": 0,
+  "name": "Waze",
+  "icon": "waze.jpg",
+ "bundleID": "com.waze.iphone"
+  }, {
+  "type": 0,
+  "badge": 0,
+  "name": "Phone",
+  "icon": "phone.png",
+ "bundleID": "com.apple.mobilephone"
+  },
+ {
+ "type": 0,
+ "name": "Watch",
+ "icon": "watch.jpg",
+ "bundleID": "com.apple.Bridge"
+ },
+  {
+  "type": 1,
+  "name": "Stuff",
+ "apps": [{
+          "type": 0,
+          "name": "Tips",
+          "icon": "tips.jpg",
+          "bundleID": "com.apple.tips"
+          }, {
+          "type": 0,
+          "name": "Voice Memos",
+          "icon": "voicememos.jpg",
+          "bundleID": "com.apple.VoiceMemos",
+          "shareable": false
+          }, {
+          "type": 0,
+          "name": "Find iPhone",
+          "icon": "find.jpg",
+          "bundleID": "com.apple.mobileme.fmip1"
+          }, {
+          "type": 0,
+          "name": "Mail",
+          "icon": "mail.jpg",
+          "badge": 2,
+          "bundleID": "com.apple.mobilemail"
+          }, {
+          "type": 0,
+          "name": "Stocks",
+          "icon": "stocks.jpg",
+          "bundleID": "com.apple.stocks"
+          }, {
+          "type": 0,
+          "name": "Home",
+          "icon": "home.jpg",
+          "bundleID": "com.apple.Home"
+          }, {
+          "type": 0,
+          "name": "Numbers",
+          "icon": "numbers.jpg",
+          "bundleID": "com.apple.Numbers"
+          }, {
+          "type": 0,
+          "name": "iBooks",
+          "icon": "ibooks.jpg",
+          "bundleID": "com.apple.iBooks"
+          }, {
+          "type": 0,
+          "name": "FaceTime",
+          "badge": 1,
+          "icon": "facetime.jpg",
+          "bundleID": "com.apple.facetime"
+          }, {
+          "type": 0,
+          "badge": 3,
+          "name": "Podcasts",
+          "icon": "podcasts.jpg",
+          "bundleID": "com.apple.podcasts"
+          }, {
+          "type": 0,
+          "name": "Maps",
+          "icon": "maps.jpg",
+          "bundleID": "com.apple.Maps"
+          }, {
+          "type": 0,
+          "name": "Remote",
+          "icon": "appletv.jpg",
+          "bundleID": "com.apple.TVRemote"
+          }]
+  },
+ {
+ "type": 0,
+ "name": "Timehop",
+ "icon": "timehop.jpg",
+ "bundleID": "com.timehop.ios.Timehop"
+ }, {
+ "type": 0,
+ "name": "Snapchat",
+ "icon": "snapchat.jpg",
+ "bundleID": "com.toyopagroup.picaboo"
+ },
+  {
+  "type": 0,
+  "name": "Tinder",
+  "icon": "tinder.jpg",
+ "bundleID": "com.cardify.tinder"
+  },
+  {
+  "type": 0,
+  "name": "TU",
+  "icon": "tu.jpg",
+ "bundleID": "com.tu.tugo"
+  },
+  {
+  "type": 0,
+  "name": "Life Cycle",
+  "icon": "lifecycle.jpg",
+ "bundleID": "com.northcube.life"
+  },
+  {
+  "type": 0,
+  "name": "Sleep Cycle",
+  "icon": "sleepcycle.jpg",
+ "bundleID": "com.lexwarelabs.goodmorning"
+  },
+  {
+  "type": 0,
+  "name": "WWDC",
+  "icon": "wwdc.jpg",
+ "bundleID": "developer.apple.wwdc-Release"
+  },
+  {
+  "type": 0,
+  "name": "LinkedIn",
+  "icon": "linkedin.jpg",
+ "bundleID": "com.linkedin.LinkedIn"
+  },
+  {
+  "type": 0,
+  "name": "Foursquare",
+  "icon": "foursquare.jpg",
+ "bundleID": "com.naveenium.foursquare"
+  },
+ {
+ "type": 0,
+ "name": "Activity",
+ "icon": "activity.jpg",
+ "bundleID": "com.apple.Fitness"
+ },
+  {
+  "type": 0,
+  "name": "Uber",
+  "icon": "uber.jpg",
+ "bundleID": "com.ubercab.UberClient"
+  },
+  {
+  "type": 0,
+  "name": "Inter",
+  "icon": "inter.jpg",
+ "bundleID": "br.com.intermedium"
+  },
+  {
+  "type": 0,
+  "name": "Personnalité",
+  "icon": "itau.jpg",
+ "bundleID": "com.itau.iphone.personnalite"
+  },
+  {
+  "type": 0,
+  "name": "Messenger",
+  "icon": "messenger.jpg",
+ "bundleID": "com.facebook.Messenger"
+  },
+  {
+  "type": 0,
+  "name": "Letras Orkut",
+  "icon": "orkut.jpg",
+ "bundleID": "com.jota.Letras-Orkut"
+  },
+  {
+  "type": 0,
+  "name": "Santander",
+  "icon": "santander.jpg",
+ "bundleID": "br.com.santander.minhacontapf"
+  },
+  {
+  "type": 0,
+  "name": "Twitter",
+  "icon": "twitter.jpg",
+ "bundleID": "com.atebits.Tweetie2"
+  },
+  {
+  "type": 0,
+  "name": "Shazam",
+  "icon": "shazam.jpg",
+ "bundleID": "com.shazam.mac.Shazam"
+  },
+  {
+  "type": 0,
+  "name": "Numbers",
+  "icon": "numbers.jpg",
+ "bundleID": "com.apple.Numbers"
+  },
+  {
+  "type": 0,
+  "name": "iFood",
+  "icon": "ifood.jpg",
+ "bundleID": "br.com.brainweb.ifood"
+  },
+  {
+  "type": 0,
+  "name": "Ingresso.com",
+  "icon": "ingresso.jpg",
+ "bundleID": "com.ingresso.cinemas"
+  },
+  {
+  "type": 0,
+  "name": "Vivo Easy",
+  "icon": "vivo.jpg",
+ "bundleID": "br.com.vivo.vivoeasy"
+  },
+  {
+  "type": 0,
+  "name": "Sodexo Brasil",
+  "icon": "sodexo.jpg",
+ "bundleID": "Primety.SodexoMobile"
+  },
+  {
+  "type": 0,
+  "name": "Stack Overflow",
+  "icon": "so.jpg",
+ "bundleID": "com.stackexchange.stackoverflow"
+  },
+  {
+  "type": 0,
+  "name": "Slack",
+  "icon": "slack.jpg",
+ "bundleID": "com.tinyspeck.slackmacgap"
+  },
+  
+  {
+  "type": 0,
+  "name": "Azul",
+  "icon": "azul.jpg",
+ "bundleID": "br.com.voeazul"
+  },
+  {
+  "type": 0,
+  "name": "Meu Vereador",
+  "icon": "vereador.jpg",
+ "bundleID": "br.com.meuvereador.MeuVereador"
+  },
+  {
+  "type": 0,
+  "name": "Speedtest",
+  "icon": "speedtest.jpg",
+ "bundleID": "com.ookla.speedtest"
+  },
+  {
+  "type": 0,
+  "name": "Prime Video",
+  "icon": "primevideo.jpg",
+ "bundleID": "com.amazon.aiv.AIVApp"
+  },
+  {
+  "type": 0,
+  "name": "Mirror",
+  "icon": "sketch.jpg",
+ "bundleID": "com.bohemiancoding.sketch.play"
+  },
+  {
+  "type": 0,
+  "name": "Whoscall",
+  "icon": "whoscall.jpg",
+ "bundleID": "gogolook.whoscall"
+  },
+  {
+  "type": 0,
+  "name": "Remote",
+  "icon": "remote.jpg",
+ "bundleID": "com.apple.Remote"
+  },
+ {
+ "type": 0,
+ "name": "Automatic",
+ "icon": "automatic.jpg",
+ "bundleID": "com.automatic"
+ },
+ {
+ "type": 0,
+ "name": "Nespresso",
+ "icon": "nespresso.jpg",
+ "bundleID": "com.nespresso.nespresso"
+ }]
+
+
+
